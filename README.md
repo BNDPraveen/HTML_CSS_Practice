@@ -10,7 +10,7 @@ Feel free to explore the projects, use the code as a reference, and provide feed
 
 ## Projects
 
-- Project 1: Profile Card Ui Design (./Profile_Card/)
+- [Project 1: Profile Card Ui Design](./Profile_Card/)
 
 ## Getting Started
 
