@@ -17,4 +17,4 @@ Feel free to explore the projects, use the code as a reference, and provide feed
 You can clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/YourUsername/HTML-CSS-Beginner-Projects.git
+git clone https://github.com/BNDPraveen/HTML_CSS_beginnerProjects.git
