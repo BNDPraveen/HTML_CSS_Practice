@@ -11,7 +11,7 @@ Feel free to explore the projects, use the code as a reference, and provide feed
 ## Projects
 
 - [Project 1: Profile Card Ui Design](./Profile_Card/) | [Twitter Post](https://x.com/nagadurgaprave1/status/1719847201227296870?s=20)
-- [Project 2: Profile Card Ui Design](./LoginForm/) | [Twitter Post]([https://x.com/nagadurgaprave1/status/1719847201227296870?s=20])(https://x.com/nagadurgaprave1/status/1720143958934962315?s=20))
+- [Project 2: Profile Card Ui Design](./LoginForm/) | [Twitter Post](https://x.com/nagadurgaprave1/status/1720143958934962315?s=20)
 
 ## Getting Started
 
