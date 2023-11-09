@@ -13,6 +13,7 @@ Feel free to explore the projects, use the code as a reference, and provide feed
 - [Project 1: Profile Card Ui Design](./Profile_Card/) | [Twitter Post](https://x.com/nagadurgaprave1/status/1719847201227296870?s=20)
 - [Project 2: Login Form](./LoginForm/) | [Twitter Post](https://x.com/nagadurgaprave1/status/1720143958934962315?s=20)
 - [Project 3: TodoList](./Simple_TodoList_Using_JS/) | [Twitter Post](https://x.com/nagadurgaprave1/status/1721260307656606157?s=20)
+- [Project 4:Responsive Search Bar](./Responsive_Search_Box/) | [Twitter Post](https://x.com/nagadurgaprave1/status/1722651413292232999?s=20)
 
 ## Getting Started
 
