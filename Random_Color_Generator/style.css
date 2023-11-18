@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  height: 100vh; /* Set the body height to full viewport height */
+}
+
+#container {
+  text-align: center; /* Center text within the container */
+}
+
+/* Additional styling for h1 and button */
+#container h1 {
+  font-size: 24px; /* Adjust font size as needed */
+}
+
+#btn1 {
+  margin-top: 10px; /* Add margin to separate h1 and button */
+}
